@@ -1,0 +1,11 @@
+#wrap {
+	width: 100% !important;
+}
+
+#inner-grunge {
+	padding: 0 10px;
+}
+.headerbar {
+    position: relative;
+    background-size: cover;
+}

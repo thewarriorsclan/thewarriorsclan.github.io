@@ -1,0 +1,20 @@
+@import url(////maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+.social{
+    text-align:center;
+    width:30px;
+    height:30px;
+    float:left;
+    background:rgb(255,255,255);
+    border:1px solid rgb(204,204,204);
+    box-shadow:0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius:100px;
+    margin:0 10px 10px 0;
+    padding:19px;
+}
+.google-pluse:hover{background:#DD4B39;color:#FFF;}
+.facebook:hover{background:#3b5998;color:#FFF;}
+.twitter:hover{background:#00acee;color:#FFF;}
+.pinterest:hover{background:#c8232c;color:#FFF;}
+.skype:hover{background:#00aff0;color:#FFF;}
+.youtube:hover{background:#c4302b;color:#FFF;}
+.cv1:hover{background:#34526f;color:#FFF;}
